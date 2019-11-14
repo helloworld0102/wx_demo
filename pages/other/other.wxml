@@ -1,0 +1,6 @@
+<!--pages/other/other.wxml-->
+<view class="container">
+  <text class="textheader">记录你的秘密</text>
+  <textarea class="textarea"></textarea>
+  <button type="primary" bindtap="submit">提交</button>
+</view>

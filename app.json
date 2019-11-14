@@ -1,0 +1,42 @@
+{
+  "pages": [
+    "pages/home/home",
+    "pages/other/other",
+    "pages/index/index",
+    "pages/logs/logs"
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "Other you",
+    "navigationBarTextStyle": "black"
+  },
+  "style": "v2",
+  "sitemapLocation": "sitemap.json",
+    "tabBar": {
+      "color": "#7A7E83",
+      "selectedColor": "#3cc51f",
+      "borderStyle": "black",
+      "backgroundColor": "#ffffff",
+      "list": [
+        {
+          "pagePath": "pages/home/home",
+          "iconPath": "images/icon_component.png",
+          "selectedIconPath": "images/icon_component_HL.png",
+          "text": "all"
+        },
+        {
+          "pagePath": "pages/home/home",
+          "iconPath": "images/icon_component.png",
+          "selectedIconPath": "images/icon_component_HL.png",
+          "text": "other"
+        },
+        {
+          "pagePath": "pages/home/home",
+          "iconPath": "images/icon_API.png",
+          "selectedIconPath": "images/icon_API_HL.png",
+          "text": "you"
+        }
+      ]
+    }
+}

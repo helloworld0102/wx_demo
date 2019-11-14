@@ -1,0 +1,7 @@
+/* pages/other/other.wxss */
+page {
+  height: 100%;
+}
+.textarea{
+  border: 2rpx solid rgb(214, 161, 161);
+}

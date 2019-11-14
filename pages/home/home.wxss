@@ -1,0 +1,27 @@
+/* pages/home/home.wxss */
+page {
+  height: 100%;
+}
+.nav {
+  width: 220rpx;
+  text-align: center;
+  height: 270rpx;
+  color: rgb(73, 73, 212);
+  background-color: rgba(191, 235, 91, 0.384);
+}
+
+image {
+  max-width: 100%;
+  max-height: 75%;
+}
+
+.desc {
+    height: 10%;
+    font-size: 28rpx
+}
+.textstyle {
+  align-self: flex-start;
+  width:750rpx;
+  position: relative;
+  top:-5%;
+}

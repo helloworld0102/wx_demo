@@ -1,0 +1,39 @@
+<view class="container">
+  <text class="textstyle">欢迎来到Other you</text>
+  <navigator class="nav" url="../other/other">
+    <image src="../../images/bijiben.jpg" alt="生活日记"></image>
+    <div class="desc">生活日记</div>
+  </navigator>
+  <navigator class="nav" url="../other/other">
+    <image src="../../images/ganwu.jpg" alt="生活日记"></image>
+    <div class="desc">所思所想</div>
+    </navigator>
+  <navigator class="nav" url="../other/other">
+    <image src="../../images/sixiang.jpg" alt="生活日记"></image>
+    <div class="desc">所感所悟</div>
+  </navigator>
+  <navigator class="nav" url="../other/other">
+    <image src="../../images/rember.jpg" alt="生活日记"></image>
+    <div class="desc">陈年回味</div>
+  </navigator>
+  <navigator class="nav" url="../other/other">
+    <image src="../../images/jihua.jpg" alt="生活日记"></image>
+    <div class="desc">周期计划</div>
+  </navigator>
+  <navigator class="nav" url="../other/other">
+    <image src="../../images/bijiben.jpg" alt="生活日记"></image>
+    <div class="desc">未完待续</div>
+  </navigator>
+  <navigator class="nav" url="../other/other">
+    <image src="../../images/bijiben.jpg" alt="生活日记"></image>
+    <div class="desc">未来憧憬</div>
+  </navigator>
+  <navigator class="nav" url="../other/other">
+    <image src="../../images/geren.jpg" alt="生活日记"></image>
+    <div class="desc">个人信息</div>
+  </navigator>
+   <navigator class="nav" url="../other/other">
+    <image src="../../images/rember.jpg" alt="生活日记"></image>
+    <div class="desc">未完待续</div>
+  </navigator>
+</view>
